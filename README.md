@@ -1,4 +1,4 @@
-##CONCURRENCY GUIDE
+# CONCURRENCY GUIDE
 
 This repository is a collection of practical concurrency scenarios in Go.
 
@@ -7,7 +7,7 @@ The examples are inspired by the concurrency section of Effective Go (https://go
 
 Feel free to explore the examples, experiment with them, and contribute your own scenarios if you have ideas to add.
 
-⚡ Friendly & Open-Source Vibe
+### ⚡ Friendly & Open-Source Vibe
 
 This repo is a growing collection of real-world concurrency scenarios in Go.
 
@@ -16,7 +16,7 @@ While it’s inspired by the concurrency patterns from Effective Go (https://go.
 
 Give it a spin, play around with the examples, and feel free to contribute more scenarios if you’ve got cool ideas to share 🚀
 
-🧠 Learning-Focused
+### 🧠 Learning-Focused
 
 This repository explores common and practical concurrency scenarios in Golang.
 
