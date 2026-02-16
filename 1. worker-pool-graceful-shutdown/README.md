@@ -1,0 +1,1 @@
+We have a continuous stream of requests. We create a fixed-size worker pool so only N workers process requests concurrently. When shutdown is triggered, idle workers stop immediately, and workers currently processing a request stop after their current process() call completes.
